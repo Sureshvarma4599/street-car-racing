@@ -34,14 +34,14 @@
     margin-left: 195px;
 }
 .CarGame{
-    background-image: url(Images/city.jpg);
+    background-image: url(./Images/city.jpg);
     background-size: cover;
 
 }
 .other{
     width: 50px;
     height: 70px;
-    background-image: url("/Images/othercar.png");
+    background-image: url("./Images/othercar.png");
     color: red;
     background-size: 50px 70px;
     background-color:none;
